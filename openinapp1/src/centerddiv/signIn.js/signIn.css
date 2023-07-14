@@ -1,0 +1,64 @@
+/* App.css */
+.container {
+    display: flex;
+    height: 75%;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.centered-container {
+    position: relative;
+    background-color: snow;
+    padding-left: 50px;
+    padding: 35px;
+    padding-right: 85px ;
+    border-radius: 20px;
+    text-align: center;
+  }
+  
+  .form-group {
+    margin-bottom: 10px;
+  }
+  
+  
+  
+  .input1{
+    width: 120%;
+    padding: 7px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .button1 {
+    padding: 5px 30px;
+    width: 130%;
+    height: 55%;
+    background-color:black;
+    color: #fff;
+    border: none;
+    font-weight: bold;
+    font-family: sans-serif;
+    border-radius: 7px;
+    cursor: pointer;
+  }
+  .but1{
+    background-color: white;
+    color: slategray;
+    border-radius: 5px;
+    border: #fff;
+    cursor: pointer;
+    
+    font-size: 13px;
+  }
+
+  .input2{
+  width: 50%;
+  padding: 5;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  
+
+   
+
+  }
